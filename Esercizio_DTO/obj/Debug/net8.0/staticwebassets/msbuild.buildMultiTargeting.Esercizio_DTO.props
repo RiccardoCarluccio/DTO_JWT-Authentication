@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Esercizio_DTO.props" />
+</Project>
